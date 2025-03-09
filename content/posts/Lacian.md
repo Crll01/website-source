@@ -11,6 +11,7 @@ showTags: false
 hideBackToTop: false
 fediverse: "@username@instance.url"
 ---
+
 Philles is clearly not an entity, but rather a symbolic representation and a cultural construct. Its meaning is akin to that of a human name: the desire constructed by the Big Other (based on a structure of lack) constitutes the entirety of what it means to be “human,” and Philles plays a role similar to that of a “name.” This analogy can be more vividly illustrated using “nitrogen” as an example—the word “nitrogen” represents the signifier itself, whereas the “gas” component denotes the concept or meaning that the signifier refers to (the signified). Therefore, Philles is not some concrete reality; it is essentially a symbolic existence derived from cultural and signifying constructions rather than from nature or tangible matter. Its meaning is entirely dependent on the symbolic system, making it a product of construction rather than a fixed, immutable entity.
 
 Regarding the “absence” of the Big Other, there appear to be two analytical approaches: one from the perspective of “absence” as understood in the Chinese context (absence), and the other from Lacan’s original notion of “lack,” which refers to a deficiency resulting from the inherent ruptures in language or semiotics.
