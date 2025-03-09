@@ -32,7 +32,7 @@ In Lacanian psychoanalytic theory, the applicability of its core concepts in the
 
 This limitation is mainly reflected in two aspects: first, its theoretical framework is relatively simplistic in explaining the complexity of modern society; second, some of its core concepts (e.g., the the thesis of female subjectivity - “woman does not exist”), which I speculate may have a certain element of “playfulness”, need to be re-interpreted in the contemporary context. However, the analysis of Lacanian theory on the construction of the subject, the Big Other, and the concept of Philosophy are still important references.
 
-##Idealism vs. Institutional Power: The Hidden Risks of Academia
+## Idealism vs. Institutional Power: The Hidden Risks of Academia
 Entering academia with an idealistic and utopian mindset, I believe that pursuing academic work is, overall, a relatively risky endeavor. Academia, in general, is a realm with clearly defined power structures, partly due to the limited resources available and the inherent stratification and hierarchical divisions within the field. With scarce resources, the formation of such power structures is inevitable.
 
 Whether in the United States or China, the emergence of academic power structures is unavoidable. In fact, the scarcer the resources, the more concentrated their allocation becomes, and the more pronounced the power dynamics are. However, the key point is that in American academia, power primarily serves the academic community; even top figures in a specific field have influence that is essentially confined to that academic sphere. Overall, while resource allocation may exhibit biases, it is fundamentally centered on academic contributions, and the scope of power remains limited.
