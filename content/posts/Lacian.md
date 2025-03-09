@@ -1,34 +1,24 @@
 ---
-title: "Analysis 1: Power, Economy, and Psychoanalysis"
+title: "Lacanian 1: the Big Other’s Absence and Inherent Lack"
 date: "2024-11-12"
-summary: "Something through Foucauldian and Lacanian perspectives."
+summary: "Philles symbolizes the inherent incompleteness and constructed nature of the Big Other, highlighting both its apparent absence and intrinsic lack."
 toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["power structures", "rationality"]
+tags: ["Lacanian", "the Big Other"]
 showTags: false
 hideBackToTop: false
 fediverse: "@username@instance.url"
 ---
-## Theoretical analysis of power structures and rule systems
+Philles is clearly not an entity, but rather a symbolic representation and a cultural construct. Its meaning is akin to that of a human name: the desire constructed by the Big Other (based on a structure of lack) constitutes the entirety of what it means to be “human,” and Philles plays a role similar to that of a “name.” This analogy can be more vividly illustrated using “nitrogen” as an example—the word “nitrogen” represents the signifier itself, whereas the “gas” component denotes the concept or meaning that the signifier refers to (the signified). Therefore, Philles is not some concrete reality; it is essentially a symbolic existence derived from cultural and signifying constructions rather than from nature or tangible matter. Its meaning is entirely dependent on the symbolic system, making it a product of construction rather than a fixed, immutable entity.
 
-In the analytical framework of power structure, the construction and operation of the rule system presents a complex multilayered nature. Social norms can be understood as a kind of hierarchical power tool: some of the rules (e.g., the basic legal system) do have universal value and serve the stable operation of the society as a whole; while the other part of the rules are obviously instrumental with the interests of a specific class, and their core function is to strengthen the ideological control and social management system.
+Regarding the “absence” of the Big Other, there appear to be two analytical approaches: one from the perspective of “absence” as understood in the Chinese context (absence), and the other from Lacan’s original notion of “lack,” which refers to a deficiency resulting from the inherent ruptures in language or semiotics.
 
-This dualistic character of the power structure has been fully reflected in specific social governance practices. Especially on specific topics such as epidemic control and employment restriction, the process of rule-making and implementation clearly demonstrates the essence of power operation. I believe that this is a typical manifestation of Foucault's theory of governability in real life, and at the same time, in the absence of universal rules formulated by the Big Other, the rationality of many social rules deserves in-depth exploration.
+First, “absence” refers to the apparent nonappearance of the Big Other in certain specific contexts. The Big Other, as an external structure (such as societal expectations), typically manifests as an omnipresent symbolic authority that does not easily “disappear.” However, in certain particular situations, this Big Other may exhibit an “absence.” For example, when the formulation of a rule directly stems from the highest authority, without support from a higher level of construction, such rules tend to serve the interests of the power institution itself rather than being based on a universal social order. In such cases, the symbolic authority of the Big Other is weakened—the “absence” here is a manifestation on a practical level, although it does not imply that the Big Other is completely non-existent. Its implicit supporting role persists, even as its symbolic legitimacy is exposed or questioned.
 
-- In addition, through the study of Foucault's core ideas (the Discipline and Punish trilogy) and the Institut de France series (How to Govern the Living, etc.), I have come to believe that his theories are an effective tool for analyzing traditional institutions and for understanding the mechanisms of control in contemporary societies. Especially in analyzing the three dimensions of disciplinary techniques, punishment mechanisms and institutional construction.
+Second, “lack” is central to Lacan’s theory, indicating that the Big Other, as a constructed product, is inherently incomplete and perpetually bears an irreparable rupture. In this sense, the Big Other’s “absence” does not mean “nonexistence” or “loss” as might be interpreted in the Chinese context, but rather arises from its role as the core support of the symbolic order. It depends on the construction of language and signs—systems that are inherently arbitrary and limited. This inherent rupturing is an intrinsic attribute of the Big Other, rendering it forever incapable of completely encompassing the complexity of the real.
 
-## Critical Thinking in Political Economy
-In the Chinese context, the relationship between business operations and political power exhibits unique complexities:
+This incompleteness can be further explained through linguistics and semiotics. Different language systems have their own emphases, and certain terms in some languages may lack exact equivalents in others. For instance, some uniquely Chinese product terms are extremely difficult to render equivalently in other languages. This untranslatability exposes the limitations of language systems, further highlighting the intrinsic rupture of the Big Other as a symbolic construction. The Big Other relies on language and cultural constructs, but due to the arbitrariness of language and the diversity of cultures, this reliance is doomed never to be complete.
 
-First, the traditional network of human relations occupies a central position in business operations, a phenomenon that somewhat constrains a purely capability-oriented development model. This phenomenon is particularly evident in certain regions (e.g., Shandong), in which the political and business relationship is often not a contest of intellect and power, but is reduced to a field of favors and relational operations.
-
-Secondly, the study found that specific cultural phenomena tend to emerge in such environments, such as a drinking culture dominated by middle-aged men, and the phenomenon of the “corpse in the street”, in which competence does not match the position. These phenomena are not so much the result of business operations as they are aberrations in a particular power structure.
-
-## Exploring the modern applicability of psychoanalytic theory
-
-In Lacanian psychoanalytic theory, the applicability of its core concepts in the modern social context deserves in-depth consideration. Although its theory provides an important perspective in explaining the construction of the subject, it also shows obvious limitations of the times.
-
-This limitation is mainly reflected in two aspects: first, its theoretical framework is relatively simplistic in explaining the complexity of modern society; second, some of its core concepts (e.g., the the thesis of female subjectivity - “woman does not exist”), which I speculate may have a certain element of “playfulness”, need to be re-interpreted in the contemporary context. However, the analysis of Lacanian theory on the construction of the subject, the Big Other, and the concept of Philosophy are still important references.
-
+Finally, the lack of correspondence between the “absence” in the Chinese context and Lacan’s “lack” precisely illustrates the ruptured nature of the Big Other itself. This rupture is both irreparable and inescapable, constituting a core feature of the functioning of the symbolic order. Moreover, the correspondence between ‘애착’ in Korean and ‘依恋’ in Chinese further corroborates this notion of rupture in semiotics. In the Korean system, ‘애착’ is directly derived from Attachment Theory, with core connotations such as “the source of security,” “irreplaceability,” and “the profound pain following loss.” However, in Chinese, unless ‘依恋’ is placed within a specific context (for example, a discussion explicitly referring to Attachment Theory), its intuitive impact is greatly diminished and it tends to be understood merely as a shallow emotion or sense of attachment.
